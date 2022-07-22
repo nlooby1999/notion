@@ -1,0 +1,2 @@
+printer = 'tstetdt'
+print(printer)
